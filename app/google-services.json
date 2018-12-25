@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345274215658",
+    "firebase_url": "https://public-transport-tim-table.firebaseio.com",
+    "project_id": "public-transport-tim-table",
+    "storage_bucket": "public-transport-tim-table.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345274215658:android:4e96d90214ffd71e",
+        "android_client_info": {
+          "package_name": "com.example.umairsahi.gtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345274215658-9o3m59fgthu8tc4mk3ug70f3ad5ip9kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umairsahi.gtt",
+            "certificate_hash": "eb466f2ac3f80eb63fd0d349e68ca0de6d9d5b54"
+          }
+        },
+        {
+          "client_id": "345274215658-vpk4fif2r1ulena253gn151cpj670g4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HgFGMs6VTuj2Ku22rZIa4SeK77QPhqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345274215658-vpk4fif2r1ulena253gn151cpj670g4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
